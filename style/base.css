@@ -47,11 +47,11 @@
 }
 
 .jp-SlurmWidget-NerscLaunchIcon {
-  background-image: url("nersc_icon.png");
+  background-image: url("pc2_icon.png");
 }
 
 .jp-SlurmWidget-NerscTabIcon {
-  background-image: url("nersc_icon_small.png");
+  background-image: url("pc2_icon_small.png");
 }
 
 .jp-SlurmWidget-table-button-badge {
